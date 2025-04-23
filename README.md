@@ -18,7 +18,8 @@ I powered the FC-32 modues with 12v DC , Set jumper S7 and jumpers for S1 and S2
 
 
 Newer models , sometimes labeled FC-31 has no Jumper 7 and or only On delays
-![image](https://github.com/user-attachments/assets/f4c9e54a-6893-4a8f-acff-7aaa83a6adcc)
+![image](https://github.com/user-attachments/assets/f4c9e54a-6893-4a8f-acff-7aaa83a6adcc)  ![Screenshot 2025-04-23 095554](https://github.com/user-attachments/assets/78fbc13e-1fe9-40f2-8d92-96f1037945d9)
+
 
 
 ![ATS-FC-32-Relay-Control v4](https://github.com/user-attachments/assets/3abfb17b-9f8a-4026-a115-d1582021d6ec)  ![WIN_20250422_01_08_25_Pro](https://github.com/user-attachments/assets/20ffee26-eafd-4610-b78d-db8d5a2627fb)
