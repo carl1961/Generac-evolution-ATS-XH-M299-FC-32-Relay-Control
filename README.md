@@ -12,7 +12,8 @@ I powered the FC-32 modues with 12v DC , Set jumper S7 and jumpers for S1 and S2
 
  ![image](https://github.com/user-attachments/assets/3018a479-a694-4f69-853c-20f9603e0406)
 
-2 FC-32 $18.00
+2 FC-32 $18.00 
+
 ![image](https://github.com/user-attachments/assets/47bb39c4-51f2-480f-94f2-43e0c376f8d1)
 
 
