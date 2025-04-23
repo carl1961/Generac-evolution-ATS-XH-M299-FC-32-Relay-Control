@@ -5,6 +5,9 @@ My evolution 1 controller would not switch to generator power (ground to 23 not 
 The PCB trace of this ground is very small and goes to via's on both ends (bad design) the price for another evolution 1 controller is $400.00, just to do it again.
 Using 2 XH-M299 220/12v power modules and 2 FC-32 on/off delay modules set to delay on, I was able to minic the evolution 1 controllers logic, Utility power module set to 10 seconds and Generator Power module set to 30 seconds.
 
+I powered the FC-32 modues with 12v DC , Set jumper S7 and S0 and S1 to both 0 , take all other jumpers off. turning the 3362 potitiomiter counter clock wise (almost all the way). power the FC-32 on and count time until green led come on. I wrote 10 on blue relay for the 10 seconds, and 30 for the 30 seconds. 
+
+
 2 XH-M299 $12.00
 
  ![image](https://github.com/user-attachments/assets/3018a479-a694-4f69-853c-20f9603e0406)
